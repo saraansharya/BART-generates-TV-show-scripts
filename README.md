@@ -1,4 +1,4 @@
-# FRIENDS of Thrones - Training BART to write scripts
+# Training BART to write TV show scripts - FRIENDS of Thrones
 
 “Chandler Bing and Tyrion Lannister enter Central Perk and order a pint of ale.” – What do you imagine this conversation to go like? How would Tyrion’s incessant wit deal with Chandler’s constant sarcasm? Sounds like quite an intriguing situation, doesn’t it? It’s hard to imagine even for us as humans, but if we had to train a machine to come up with this conversation, what might that look like?
 
